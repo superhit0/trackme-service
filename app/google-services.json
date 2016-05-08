@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "aqueous-sandbox-809",
+    "project_number": "570285004644",
+    "name": "My Project"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570285004644:android:40467ba4a66f6c33",
+        "client_id": "android:com.example.abhimanyu_singh.trackme_service2",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.abhimanyu_singh.trackme_service2",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570285004644-ansb27kstkar2ar8ojo27bq9s2bpo0mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhimanyu_singh.trackme_service2",
+            "certificate_hash": "D58544AAACF8805025703B65B89009F55B741786"
+          }
+        },
+        {
+          "client_id": "570285004644-8iu79r9pe9gmpjb17g7nb1r1d107q48v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
